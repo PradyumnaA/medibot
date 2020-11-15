@@ -1,0 +1,2 @@
+# medibot
+To predict diseases
